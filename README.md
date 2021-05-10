@@ -17,17 +17,17 @@
 </p>
 
 
-
+<br>
 
 
 <p align="center">
 
-
+<br>
 
 <img  align="center" height = "25" width="60" src="https://img.shields.io/badge/dynamic/json??style=social&logo=appveyor&color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fengnour94" />
 <br>
 
-<img  align="center" height = "25" width="60" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=engnour94&repo=engnour94&countColorcountColor&countColor=%237B1E7B" alt="engnour94"  />
+<img  align="center" height = "30" width="80" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=engnour94&repo=engnour94&countColorcountColor&countColor=%237B1E7B" alt="engnour94"  />
 
 </p>
   
@@ -44,8 +44,7 @@
 <br/>
 
 ---
-
-<i align="center" >Follow me:</i><br>
+ <h2 align="center"> Contact me 📩  </h2>
 
 <a  href="https://www.linkedin.com/in/nour-abuelenein/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/nourlight.art/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
