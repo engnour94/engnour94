@@ -13,7 +13,7 @@
 <p >
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=engnour94&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40"height = "200">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=engnour94&theme=react&line_height=40&hide=css' height = "200" />
-<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif' height = "200" width="200px/>
+<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif' height = "200" width="220px/>
 </p>
 
 
@@ -25,8 +25,9 @@
 <br>
 
 <img  align="center" height = "25" width="60" src="https://img.shields.io/badge/dynamic/json??style=social&logo=appveyor&color=brightgreen&label=followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fengnour94" />
-<br>
 
+<br>
+<br>
 <img  align="center" height = "30" width="80" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=engnour94&repo=engnour94&countColorcountColor&countColor=%237B1E7B" alt="engnour94"  />
 
 </p>
@@ -53,5 +54,5 @@
 
 </div>
 
-
+---
 ⭐️ From [Nour Abu El-enein](https://github.com/engnour94)
