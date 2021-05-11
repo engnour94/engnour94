@@ -1,4 +1,5 @@
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Nour Abu El-Enein
 <img src = "https://media1.giphy.com/media/ibYBj2nAb9bvJIbuzj/giphy.gif" width ="80px" height="100px"> </h1>
@@ -56,3 +57,7 @@
 
 ---
 ⭐️ From [Nour Abu El-enein](https://github.com/engnour94)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=footer&text=Welcome%20to%20my%20Github!&fontSize=60)
